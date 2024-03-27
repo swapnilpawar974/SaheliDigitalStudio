@@ -1,0 +1,66 @@
+. add back button to pre-wedding page and all the pages that will have photos <!--done>
+any page that redirects to a different page should have a back button
+add images to the image folder to for the respective services pages similar to pre-wedding photoshoot whith thier respective name,
+
+eqipment on rent
+
+file-rental.php - done
+rental.css - done
+
+creating a web app backup
+creating a storage account to backup our webapp
+check if storage account takes a lot of money before the creation of storage acoount
+
+
+things we did in our project
+1)Created a web app
+Go to App srvices
+create web app
+fill the required details(resource group,runtime stack-8.2 php,pricing plan,)
+in deploymnet page enable option continous deployment and connect to github where our project source code is stored
+review and create 
+
+2)Creating a database
+Sql database
+create 
+fill all the required detais
+create a database server
+use workload envornment as deploymnet
+review and create
+
+3)Creating a backup service for our created web app using Azure storage and container service
+go to created web app
+go to backups
+select the configure custome backups option
+to create custom backup we need storage account and container 
+which can be created during the configuration of backup
+set schedule for the backup and retention day for the backup
+backup service is created 
+
+4)Ai chatbot integration
+search for language in search bar
+click on create 
+select custome question and answering 
+and continue to creating a resource
+fill all the input fields which correlate to the project you are building
+review and create
+Once deploymnt is done
+go to resources 
+scroll down in overview and click get started with language studio
+sign in to your azure account
+click on create new and select custome question and answering
+create new project
+select english as a language
+filll alll the details required
+click on the add source
+click the file option and browse your file which has all the questions 
+done
+then go to deploy
+after deploying select create a bot
+it will redirect you to azure bot creation page
+fill all the basic details 
+next select web app
+select all the required details 
+in language resource key field you need to copy the resource key which is provided it the language studio setting->resources->resourceKey
+paste that key where we needed to fill the key
+review and create 

@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+:root{
+    --green:#16a085;
+    --black:#444;
+    --light-color:#777;
+    --box-shadow:.5rem .5rem 0 rgba(22, 160, 133, .2);
+    --text-shadow:.4rem .4rem 0 rgba(0, 0, 0, .2);
+    --border:.2rem solid var(--green);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    overflow: auto;
+}
+.heading{
+    text-align: center;
+    text-shadow: var(--text-shadow);
+    text-transform: uppercase;
+    color:var(--black);
+    font-size: 5rem;
+    letter-spacing: .4rem;
+    padding-bottom: 1rem;
+}
+.heading span{
+    text-transform: uppercase;
+    color:var(--green);
+}
+.container{
+ width: 80%;
+ margin: 0 auto;
+ display: grid;
+ grid-template-rows: repeat(3,568px);
+ grid-template-columns:repeat(3,292px);
+ border: 1px solid black;
+ padding: 20px;
+ justify-content: space-around;
+ background: #16a085;
+ row-gap: 25px;
+ border-radius: 25px;
+}
+.card{
+    border-radius: 25px;
+    background: white;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.25);
+}
+img{
+    width: 100%;
+    border-top-left-radius: 19px;
+    border-top-right-radius: 19px;
+}
+.description{
+    padding: 20px;
+    line-height: 1.5rem;
+}
+p,h4,li{
+    margin: 10px;
+    text-align: left;
+    font-weight: 549;
+}
+li,p{
+    color: #16a085;
+}
+h4{
+    font-size: large;
+}
+strong{
+    font-weight: 2000;
+    font-size: larger;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75px;
+}
+button{
+    background-color: var(--green);
+    color: white;
+    text-transform: capitalize;
+    height: 3rem;
+    width: 6rem;
+    font-size: 1rem;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+button:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: white;
+    color: #16a085;
+}
