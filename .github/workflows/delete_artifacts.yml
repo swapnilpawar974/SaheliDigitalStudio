@@ -9,7 +9,7 @@ jobs:
     
     steps:
       - name: Delete old artifacts
-        uses: actions/delete-artifact@v2
+        uses: actions/delete-artifact@v3
         with:
           name: php-app # Name of the artifact to delete (optional, if not provided all artifacts will be deleted)
           retention-days: 1 # Optional, specify the number of days of artifacts to keep (older artifacts will be deleted)
