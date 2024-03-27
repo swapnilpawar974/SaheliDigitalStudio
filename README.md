@@ -1,4 +1,4 @@
-# SaheliPhotoStudio
+# SaheliDigitalStudio
 
 # Project Aim
 
