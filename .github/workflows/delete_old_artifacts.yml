@@ -1,0 +1,15 @@
+name: Delete Old Artifacts
+
+on:
+  workflow_dispatch:
+
+jobs:
+  delete_artifacts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Delete old artifacts
+        run: |
+          curl -X DELETE \
+          -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+          "https://api.github.com/repos/${{ github.repository }}/actions/artifacts"
