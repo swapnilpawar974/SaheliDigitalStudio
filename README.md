@@ -2,11 +2,13 @@
 
 # Project Aim
 
-The Purpose of the "Saheli Digital Studio" project is to revolutionize the way photography studios<br>
-interact with their clients by levaraging modern technology. The primary goal is to stramline the <br>
+The Aim of the "Saheli Digital Studio" project is to revolutionize the way photography studios<br>
+interact with their clients by levaraging modern technology such as Azure services like Ai ChatBot,<br>
+Azure Web App and much more which when incorporated to the project alleviates the load on the developer<br>
+as well as creates a project which is user friendly and reliable. The primary goal is to streamline the <br>
 reservation process for photo-shoot sessions and offer a seamless experience for ordering customized<br>
 products. By developing a intuitive online platform, the platform aims to enhanace customer satisfaction,<br>
-improve operational efficiency, and drive business growth for thephotography studio.<br>
+improve operational efficiency, and drive business growth for the photography studio.<br>
 
 # Azure Services Used
 
