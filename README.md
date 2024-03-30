@@ -7,7 +7,7 @@ Web Application hosted on Azure -> [Saheli Digital Studio](https://saheli-digita
 Github Repository -> https://github.com/Rithik2511/SaheliDigitalStudio
 
 
-Project Documentation With Project Video-> [Document](https://drive.google.com/drive/u/2/my-drive?q=sharedwith:CgJtZSgH%20parent:0AK7tEV4JP2pbUk9PVA%20sharedwith:public)
+Project Documentation With Project Video-> [Guide](https://drive.google.com/drive/u/2/my-drive?q=sharedwith:CgJtZSgH%20parent:0AK7tEV4JP2pbUk9PVA%20sharedwith:public)
 
 # Project Aim
 
@@ -21,11 +21,11 @@ improve operational efficiency, and drive business growth for the photography st
 
 # Azure Services Used
 
-1.Azure WebApp  (To host the website online)<br>
+1.Azure app service (To create and host the website online)<br>
 2.Azure SQL Database Sevice (To Store the data into an SQL database)<br>
 3.Azure AI Service (An ai service(chatbot) integrated into the website)<br>
-4.Azure BackUp Service (Used To create a Backup of our Web App)<br>
-5.Azure Monitoring Service(Used To detect any issues)<br>
+4.Azure BackUp Service (To create a Backup of our Web App)<br>
+5.Azure Storage service(To store backup files)<br>
 
 # Web Tecnologies Used
 
