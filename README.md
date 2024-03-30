@@ -6,7 +6,9 @@ Web Application hosted on Azure -> [Saheli Digital Studio](https://saheli-digita
 
 Github Repository -> https://github.com/Rithik2511/SaheliDigitalStudio
 
-Documentation -> 
+Project Video -> [Guide](https://storage12322.blob.core.windows.net/project-resources/Project_Creation/Project_Creation.mp4?sp=r&st=2024-03-30T10:52:44Z&se=2024-03-30T18:52:44Z&sv=2022-11-02&sr=b&sig=N%2FK%2FrF7wzh%2FI%2FhQ3bZMrwcw9WY51IU5F2PtignGFFEw%3D)
+
+Project Documentation -> [Document](Saheli Digital Website v4.pdf)
 
 # Project Aim
 
