@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'Saheli-Digital-Studio'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E644DE46C1FC4F678310F4E0ED024597 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB5A5FD9977B4F8BBC51CC65C240E848 }}
           package: .
