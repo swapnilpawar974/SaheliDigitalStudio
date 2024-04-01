@@ -14,7 +14,7 @@ check if storage account takes a lot of money before the creation of storage aco
 
 things we did in our project
 1)Created a web app
-Go to App srvices
+Go to App services
 create web app
 fill the required details(resource group,runtime stack-8.2 php,pricing plan,)
 in deploymnet page enable option continous deployment and connect to github where our project source code is stored
@@ -51,7 +51,7 @@ sign in to your azure account
 click on create new and select custome question and answering
 create new project
 select english as a language
-filll alll the details required
+fill all the details required
 click on the add source
 click the file option and browse your file which has all the questions 
 done
