@@ -49,7 +49,7 @@ App Service:
 Database:
 ![alt text](DataBase.png)
 
-Azure AI Service
+Azure AI Service:
 ![alt text](Ai_Service.png)
 
 # WebSite Preview
