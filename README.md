@@ -41,9 +41,16 @@ improve operational efficiency, and drive business growth for the photography st
 
 # Azure Resources Overview
 
+App Service:
 ![alt text](App_Service1.png)
 
-![alt text](App_Service2.png)
+![alt text](App-Service2.png)
+
+Database:
+![alt text](DataBase.png)
+
+Azure AI Service
+![alt text](Ai_Service.png)
 
 # WebSite Preview
 
