@@ -39,6 +39,8 @@ improve operational efficiency, and drive business growth for the photography st
 
 ![alt text](SaheliDigital_group.jpg)
 
+# Azure Resources Overview
+
 # WebSite Preview
 
 ![alt text](img1.png)
