@@ -336,7 +336,7 @@
 
         <div class="box">
             <h3>Site Developers</h3>
-            <a href="#"> <i class="fa-brands fa-github"></i> Swapnil Pawar </a>
+            <a href="https://github.com/swapnilpawar001"> <i class="fa-brands fa-github"></i> Swapnil Pawar </a>
             <a href="#"> <i class="fa-brands fa-square-github"></i> Rithik Puthampurail </a>
             <a href="#"> <i class="fa-brands fa-square-github"></i> Abhijit Pawar </a>
         </div>
