@@ -4,7 +4,7 @@
 
 Web Application hosted on Azure -> [Saheli Digital Studio](https://saheli-digital-studio.azurewebsites.net/)
 
-Github Repository -> https://github.com/Rithik2511/SaheliDigitalStudio
+Github Repository -> https://github.com/swapnilpawar974/SaheliDigitalStudio
 
 
 Project Documentation With Project Video-> [Guide](https://drive.google.com/drive/folders/1qejoXr2uFto9ytSFhtZuB0Bbe-Y-tGp_?usp=sharing)
