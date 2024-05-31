@@ -7,7 +7,7 @@ Web Application hosted on Azure -> [Saheli Digital Studio](https://saheli-digita
 Github Repository -> https://github.com/swapnilpawar974/SaheliDigitalStudio
 
 
-Project Documentation With Project Video-> [Guide](https://drive.google.com/drive/folders/1qejoXr2uFto9ytSFhtZuB0Bbe-Y-tGp_?usp=sharing)
+Project Documentation With Project Video-> [Guide](https://drive.google.com/file/d/1l61iqb0TgBxnITU-B4VFyMRlghMRaaT-/view?usp=sharing)
 
 # Project Aim
 
