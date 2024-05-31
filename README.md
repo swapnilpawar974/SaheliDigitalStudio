@@ -42,7 +42,7 @@ improve operational efficiency, and drive business growth for the photography st
 # Azure Resources Overview
 
 App Service:
-(![alt text](webapp1.png))
+![alt text](webapp1.png)
 
 ![alt text](webapp2.png)
 
