@@ -299,7 +299,7 @@
 
 
 <!-- footer section starts  -->
-<iframe src='https://webchat.botframework.com/embed/bot-Language13234-bot?s=Si0ngS9dvpA.p2A9Dl-yrRg9Wewxk5lj1OebuNsdtCyFK-Ay542WWGE' class="chatbot"></iframe>
+<iframe src='https://webchat.botframework.com/embed/Sahelichatbot-bot?s=C493HEH1PMA.W2NgtMfzyZPw_th2rUiGvTI7671wM54TJbNsWEsKTfo'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
 <section class="footer">
 
     <div class="box-container">
