@@ -299,7 +299,8 @@
 
 
 <!-- footer section starts  -->
-<iframe src='https://webchat.botframework.com/embed/Sahelichatbot-bot?s=C493HEH1PMA.W2NgtMfzyZPw_th2rUiGvTI7671wM54TJbNsWEsKTfo'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+<iframe src='https://webchat.botframework.com/embed/SaheliLanguage-bot?s=sQ1n_JrCWs0.w7m62OUdR_ewlXVs26pehOFisMD1AsXdKB8V2lAITGA'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+
 <section class="footer">
 
     <div class="box-container">
