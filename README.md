@@ -2,7 +2,7 @@
 
 ### Working Links for the Project
 
-Web Application hosted on Azure -> [Saheli Digital Studio](sahelidisitalstudio.azurewebsites.net/)
+Web Application hosted on Azure -> [Saheli Digital Studio](https://sahelidisitalstudio.azurewebsites.net/)
 
 Github Repository -> https://github.com/swapnilpawar974/SaheliDigitalStudio
 
@@ -62,6 +62,12 @@ Azure AI Service:
 ![alt text](chatbot2.png)
 ![alt text](Chatbot3.png)
 ![alt text](Resources.png)
+
+Azure Backup:
+![alt text](<azure backup-1.jpg>)
+
+Azure Storage:
+![alt text](<azure storage.jpg>)
 
 # WebSite Preview
 
