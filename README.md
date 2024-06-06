@@ -41,7 +41,7 @@ improve operational efficiency, and drive business growth for the photography st
 
 # Azure Resources Overview
 
-App Service:
+## App Service:
 ![alt text](webapp1.png)
 
 ![alt text](webapp2.png)
@@ -50,23 +50,23 @@ App Service:
 
 ![alt text](App-Service2.png)
 
-Database:
+## Database:
 ![alt text](Database1.png)
 ![alt text](Databse2.png)
 ![alt text](DataBase.png)
 ![alt text](Database3.png)
 
-Azure AI Service:
+## Azure AI Service:
 ![alt text](chatbotLanguage.png)
 ![alt text](Ai_Service.png)
 ![alt text](chatbot2.png)
 ![alt text](Chatbot3.png)
 ![alt text](Resources.png)
 
-Azure Backup:
+## Azure Backup:
 ![alt text](<azure backup-1.jpg>)
 
-Azure Storage:
+## Azure Storage:
 ![alt text](<azure storage.jpg>)
 
 # WebSite Preview
