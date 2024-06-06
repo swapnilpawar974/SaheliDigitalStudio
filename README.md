@@ -2,7 +2,7 @@
 
 ### Working Links for the Project
 
-Web Application hosted on Azure -> [Saheli Digital Studio](https://saheli-digital-studio.azurewebsites.net/)
+Web Application hosted on Azure -> [Saheli Digital Studio](sahelidisitalstudio.azurewebsites.net/)
 
 Github Repository -> https://github.com/swapnilpawar974/SaheliDigitalStudio
 
