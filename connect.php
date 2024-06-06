@@ -10,7 +10,7 @@
 
     // SQL Server Extension Sample Code:
     $connectionInfo = array("UID" => "azure", "pwd" => "Saheli@111", "Database" => "saheliData", "LoginTimeout" => 30, "Encrypt" => 1, "TrustServerCertificate" => 0);
-    $serverName = "tcp:saheli-digital-server.database.windows.net,1433";
+    $serverName = "tcp:saheli-digital-studio.database.windows.net,1433";
     $conn = sqlsrv_connect($serverName, $connectionInfo);
 
     // Assuming $_POST['YName'], $_POST['YNumber'], $_POST['YEmail'], $_POST['YDate'] contain the input data
