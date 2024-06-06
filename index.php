@@ -299,7 +299,7 @@
 
 
 <!-- footer section starts  -->
-<iframe src='https://webchat.botframework.com/embed/SaheliLanguage-bot?s=sQ1n_JrCWs0.w7m62OUdR_ewlXVs26pehOFisMD1AsXdKB8V2lAITGA'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+<iframe src='https://webchat.botframework.com/embed/SaheliLanguage-bot?s=kedR94moGfg.Bkgv8kRzNQ2XezU4gvBtngW1LqTK4okXY4X_PhsbKcQ'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
 
 <section class="footer">
 
