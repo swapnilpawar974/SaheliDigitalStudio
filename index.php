@@ -247,7 +247,7 @@
 
         <div class="box">
             <img src="image/Reviewer.jpg" alt="">
-            <h3>Review 1</h3>
+            <h3>Swapnil</h3>
             <div class="stars">
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
@@ -260,7 +260,7 @@
 
         <div class="box">
             <img src="image/Reviwer2.jpg" alt="">
-            <h3>Review 2</h3>
+            <h3>Rithik</h3>
             <div class="stars">
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
@@ -273,7 +273,7 @@
 
         <div class="box">
             <img src="image/Reviwer3.jpg" alt="">
-            <h3>Review 3</h3>
+            <h3>Abhijit</h3>
             <div class="stars">
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
