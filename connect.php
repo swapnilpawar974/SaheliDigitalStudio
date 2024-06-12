@@ -139,7 +139,7 @@
                     modalContainer.className = "modal-container";
                     var modalContent = document.createElement("div");
                     modalContent.className = "modal-content";
-                    modalContent.innerHTML = "<p style=\'font-size: 20px;\'>Booking Successful</p>";
+                    modalContent.innerHTML = "<p style=\'font-size: 20px;\'>Booking Successful</p><p style=\'font-size: 20px;\'>Our team will contact you through provided Phone Number</p>";
                     var goBackButton = document.createElement("button");
                     goBackButton.innerHTML = "Go Back";
                     goBackButton.className = "go-back-button";

@@ -169,8 +169,8 @@
     <div class="box-container">
 
         <div class="box">
-            <img src="image/" alt="">
-            <h3>Photographer 1</h3>
+            <img src="image/Photographer1.jpg" alt="">
+            <h3>Jason Lobo</h3>
             <span>Professional Photographer</span>
             <div class="share">
                 <a href="#" class="fab fa-facebook-f"></a>
@@ -181,8 +181,8 @@
         </div>
 
         <div class="box">
-            <img src="image/" alt="">
-            <h3>Photographer 2</h3>
+            <img src="image/PhotographerNew.webp" alt="">
+            <h3>John Dev</h3>
             <span>Professional Photographer</span>
             <div class="share">
                 <a href="#" class="fab fa-facebook-f"></a>
@@ -193,8 +193,8 @@
         </div>
 
         <div class="box">
-            <img src="image/" alt="">
-            <h3>Photographer 3</h3>
+            <img src="image/PhotoGrapher3.jpg" alt="">
+            <h3>Paul Walker</h3>
             <span>Professional Photographer</span>
             <div class="share">
                 <a href="#" class="fab fa-facebook-f"></a>
@@ -246,7 +246,7 @@
     <div class="box-container">
 
         <div class="box">
-            <img src="image/" alt="">
+            <img src="image/Reviewer.jpg" alt="">
             <h3>Review 1</h3>
             <div class="stars">
                 <i class="fas fa-star"></i>
@@ -255,11 +255,11 @@
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star-half-alt"></i>
             </div>
-            <p class="text">Very good experince.Friendly and Professional behaviour. Highly Recommend to everybody</p>
+            <p class="text">Got a camera lens for cheap.Defininetly recommend it to everyone.</p>
         </div>
 
         <div class="box">
-            <img src="image/" alt="">
+            <img src="image/Reviwer2.jpg" alt="">
             <h3>Review 2</h3>
             <div class="stars">
                 <i class="fas fa-star"></i>
@@ -268,11 +268,11 @@
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star-half-alt"></i>
             </div>
-            <p class="text">Very good experince.Friendly and Professional behaviour. Highly Recommend to everybody</p>
+            <p class="text">Good service provided. Had a great time have my photos clicked.</p>
         </div>
 
         <div class="box">
-            <img src="image/" alt="">
+            <img src="image/Reviwer3.jpg" alt="">
             <h3>Review 3</h3>
             <div class="stars">
                 <i class="fas fa-star"></i>
@@ -281,7 +281,7 @@
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star-half-alt"></i>
             </div>
-            <p class="text">Very good experince.Friendly and Professional behaviour. Highly Recommend to everybody</p>
+            <p class="text">Photo quality was great, will visit again</p>
         </div>
 
     </div>
