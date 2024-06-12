@@ -259,7 +259,7 @@
         </div>
 
         <div class="box">
-            <img src="image/" alt="">
+            <img src="image/banner1.jpg" alt="">
             <h3>Review 2</h3>
             <div class="stars">
                 <i class="fas fa-star"></i>
