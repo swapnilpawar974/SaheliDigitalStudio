@@ -169,7 +169,7 @@
     <div class="box-container">
 
         <div class="box">
-            <img src="image/photo-1.JPG" alt="">
+            <img src="image/" alt="">
             <h3>Photographer 1</h3>
             <span>Professional Photographer</span>
             <div class="share">
@@ -259,7 +259,7 @@
         </div>
 
         <div class="box">
-            <img src="image/banner1.jpg" alt="">
+            <img src="image/" alt="">
             <h3>Review 2</h3>
             <div class="stars">
                 <i class="fas fa-star"></i>
