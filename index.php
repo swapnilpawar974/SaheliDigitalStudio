@@ -344,7 +344,7 @@
         </div>
     </div>
 
-    <div class="credit"> created for <span>Azure Certification by ASR group</span> | all rights reserved </div>
+    <div class="credit"> created by <span>Sswapnil,Mahadev,Sumukh</span> | all rights reserved </div>
 
 </section>
 
