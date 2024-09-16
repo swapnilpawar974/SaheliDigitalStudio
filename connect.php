@@ -1,7 +1,7 @@
 <?php
     // PHP Data Objects(PDO) Sample Code:
     try {
-        $conn = new PDO("sqlsrv:server = tcp:sahelidataserver.database.windows.net,1433; Database = sahelidatabase", "azure", "Saheli@111");
+        $conn = new PDO("sqlsrv:server = tcp:sphotoserver.database.windows.net,1433; Database = SaheliData", "azure", "Saheli@111");
         $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     } catch (PDOException $e) {
         print("Error connecting to SQL Server.");
@@ -9,8 +9,8 @@
     }
 
     // SQL Server Extension Sample Code:
-    $connectionInfo = array("UID" => "azure", "pwd" => "Saheli@111", "Database" => "sahelidatabase", "LoginTimeout" => 30, "Encrypt" => 1, "TrustServerCertificate" => 0);
-    $serverName = "tcp:sahelidataserver.database.windows.net,1433";
+    $connectionInfo = array("UID" => "azure", "pwd" => "Saheli@111", "Database" => "SaheliData", "LoginTimeout" => 30, "Encrypt" => 1, "TrustServerCertificate" => 0);
+    $serverName = "tcp:sphotoserver.database.windows.net,1433";
     $conn = sqlsrv_connect($serverName, $connectionInfo);
 
     // Assuming $_POST['YName'], $_POST['YNumber'], $_POST['YEmail'], $_POST['YDate'] contain the input data
