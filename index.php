@@ -300,7 +300,7 @@
 
 <!-- footer section starts  -->
  
-<iframe src='https://webchat.botframework.com/embed/SaheliLanguage-bot?s=kewCmiu--bg.ODHSvNWUH2BpsIaiWeOlP1BWthb5Je-w91yrY_oItmE'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+<iframe src='https://webchat.botframework.com/embed/Sahelilanguage1-bot?s=v6Fc-bNXFuM.3VZ9c32JvnF-28dO6BvWzQViyDb9pB6FnbaLmKAOxfs'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
 
 <section class="footer">
 
