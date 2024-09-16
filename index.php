@@ -18,7 +18,7 @@
 
 <header class="header">
 
-    <a href="#" class="logo"> <i class="fa-solid fa-camera"></i> Azure Studio </a>
+    <a href="#" class="logo"> <i class="fa-solid fa-camera"></i> Saheli Digital Studio </a>
 
     <nav class="navbar">
         <a href="#home">home</a>
